@@ -14,7 +14,7 @@
 
 .header {
     height: 800px;
-    background: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.8)), url("./video/pexels-tima-miroshnichenko-5380594.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.8)), url("./bg_img/pexels-tima-miroshnichenko-5380594.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     color: white !important;
