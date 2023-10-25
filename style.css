@@ -1,0 +1,44 @@
+@media(max-width: 1000px) {
+    .navbar {
+        display: none;
+    }
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: white;
+}
+
+.header {
+    height: 800px;
+    background: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.8)), url("./video/pexels-tima-miroshnichenko-5380594.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white !important;
+}
+
+.header>div {
+    padding-top: 200px;
+}
+
+.header h3,
+span {
+    color: #3195ff;
+}
+
+.card {
+    position: relative;
+    padding: 20px;
+}
+
+.card>img {
+    position: absolute;
+    right: 10px;
+}
+
+h1 {
+    color: white !important;
+}
